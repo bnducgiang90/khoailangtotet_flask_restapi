@@ -9,5 +9,5 @@ api = Api(
     # All API metadatas
 )
 
-api.add_namespace(ns_books, path="/api/book/")
-api.add_namespace(ns_movies, path="/api/movie/")
+api.add_namespace(ns_books, path="/api/book")
+api.add_namespace(ns_movies, path="/api/movie")
