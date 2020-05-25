@@ -1,4 +1,3 @@
-from flask import Flask, request
 from flask_restplus import  Namespace, Resource, fields
 
 ns_movies = Namespace('movies', description="Movies operations")

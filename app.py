@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask
 from api import blueprint as api_1
 from api2 import blueprint as api_2
 from apiv2 import blueprint as api_v2
@@ -11,7 +11,7 @@ from flask_jwt_extended import (
 # Setup the Flask-JWT-Extended extension
 
 app = Flask(__name__)
-app.config['JWT_SECRET_KEY'] = 'super-secret'  # Change this!
+app.config['JWT_SECRET_KEY'] = '\xdb\x1a\xd3O\xd6%\xb9\xbe\xa2\xdf\n\x05v\x82\xb6\x1a\xe1T[\x13\xe6\xc7e\x8a' # 'super-secret'  # Thay đổi chỗ này sau
 jwt = JWTManager(app)
 
 app.register_blueprint(api_1, url_prefix='/api/1')

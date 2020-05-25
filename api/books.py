@@ -1,4 +1,3 @@
-from flask import Flask, request
 from flask_restplus import  Namespace, Resource, fields
 
 ns_books = Namespace('books', description="Books operations")
