@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e1a6a488-1724-41cf-b5cb-eaccf1f5b664" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api2/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api2/employees.py" beforeDir="false" afterPath="$PROJECT_DIR$/api2/employees.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/env/pyvenv.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/env/pyvenv.cfg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -160,6 +159,7 @@
       <workItem from="1590320475678" duration="141000" />
       <workItem from="1590374562967" duration="13334000" />
       <workItem from="1590411893189" duration="6473000" />
+      <workItem from="1590475942757" duration="130000" />
     </task>
     <task id="LOCAL-00001" summary="cm">
       <created>1590377614876</created>
@@ -216,22 +216,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="425" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1590418692798" />
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1590419825187">
+    <state width="778" height="222" key="GridCell.Tab.0.bottom" timestamp="1590476001238">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590419825187" />
-    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1590419825187">
+    <state width="778" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1590476001238" />
+    <state width="778" height="222" key="GridCell.Tab.0.center" timestamp="1590476001238">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590419825187" />
-    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1590419825186">
+    <state width="778" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1590476001238" />
+    <state width="778" height="222" key="GridCell.Tab.0.left" timestamp="1590476001236">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590419825186" />
-    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1590419825187">
+    <state width="778" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1590476001236" />
+    <state width="778" height="222" key="GridCell.Tab.0.right" timestamp="1590476001238">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590419825187" />
+    <state width="778" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1590476001238" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1590402497360">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -256,10 +256,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1590418699727" />
-    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1590374571878">
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1590475983628">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590374571878" />
+    <state x="495" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1590475983628" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -273,9 +273,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$app.coverage" NAME="app Coverage Results" MODIFIED="1590419825176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$employees.coverage" NAME="employees Coverage Results" MODIFIED="1590402230107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api2" />
+    <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$app.coverage" NAME="app Coverage Results" MODIFIED="1590476001193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$authencation.coverage" NAME="authencation Coverage Results" MODIFIED="1590402182287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/auth" />
-    <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1590412003840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$employees.coverage" NAME="employees Coverage Results" MODIFIED="1590402230107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api2" />
+    <SUITE FILE_PATH="coverage/khoailangtotet_flask_restapi$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1590475991878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>

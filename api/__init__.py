@@ -10,8 +10,16 @@ from .moves import ns_movies
 #     description='A description',
 #     # All API metadatas
 # )
+_authorizations = {
+    'Bearer Auth': {
+        'type': 'apiKey',
+        'in': 'header',
+        'name': 'Authorization'
+    },
+}
+
 blueprint = Blueprint('api1', __name__)
-api = Api(blueprint)
+api = Api(blueprint, authorizations=_authorizations, security='Bearer Auth')
 
 api.add_namespace(ns_books, path="/api1/book")
 api.add_namespace(ns_movies, path="/api1/movie")
